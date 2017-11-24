@@ -24,7 +24,8 @@ export const KEYWORDS = [
 	"STOPSIGNAL",
 	"USER",
 	"VOLUME",
-	"WORKDIR"
+	"WORKDIR",
+	"HACKATHON"
 ];
 
 export const DIRECTIVE_ESCAPE = "escape";
